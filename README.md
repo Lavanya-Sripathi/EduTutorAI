@@ -95,9 +95,7 @@ In the future, EduTutor AI aims to:
 ---
 
 ## 👩‍💻 Developed By
-
-Made with ❤️ by Lavanya Sripathi
-
-📬 Aspiring AI&ML engineer & creative tech enthusiast
+Lavanya Sripathi
+Aspiring AI/ML Engineer | Passionate about Creative Technology & Innovative Learning Solutions
 
 
