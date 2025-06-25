@@ -96,6 +96,6 @@ In the future, EduTutor AI aims to:
 
 ## 👩‍💻 Developed By
 
-Lavanya Sripathi
+    Lavanya Sripathi
 
 
