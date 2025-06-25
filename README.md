@@ -49,7 +49,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/edututor-ai.git
+git clone https://github.com/Lavanya-Sripathi/EduTutorAI
 cd edututor-ai
 
 # Install dependencies
