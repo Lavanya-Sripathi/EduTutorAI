@@ -50,7 +50,6 @@
 
 ```bash
 git clone https://github.com/Lavanya-Sripathi/EduTutorAI
-cd edututor-ai
 
 # Install dependencies
 pip install -r requirements.txt
@@ -97,6 +96,6 @@ In the future, EduTutor AI aims to:
 
 ## 👩‍💻 Developed By
 
-Intern Project by \[Lavanya Sripathi]
+Lavanya Sripathi
 
 
