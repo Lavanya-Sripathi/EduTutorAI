@@ -1,6 +1,6 @@
 # 🧠 EduTutor AI: Personalized Learning with Generative AI and LMS Integration
 
-**EduTutor AI** is a personalized learning assistant that uses the power of **IBM Granite 3.3-2B Instruct LLM (via Hugging Face)** to enhance the education experience. Developed as part of an internship project, this app provides interactive tutoring, language learning, and automated assessment generation from PDFs — all integrated into a simple **Gradio-based user interface**.
+**EduTutor AI** is a personalized learning assistant that uses the power of **IBM Granite 3.3-2B Instruct LLM (via Hugging Face)** to enhance the education experience. This provides interactive tutoring, language learning, and automated assessment generation from PDFs — all integrated into a simple **Gradio-based user interface**.
 
 ---
 
